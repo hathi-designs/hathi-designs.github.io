@@ -1,0 +1,24 @@
+@charset "UTF-8";
+body {
+
+	background-color: #FFFFFF;
+	background-size: 375px 667px;
+    background-repeat: no-repeat;
+}
+
+h1 {
+    font-family:"Times New Roman", Georgia, Serif;
+    margin:inherit;
+    font-weight:600;
+    position: fixed;
+    color:dodgerblue;
+}
+
+h2 {
+    margin-top: 1.3em;
+}
+
+a {
+    color: #0083e8;
+}
+
